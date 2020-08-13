@@ -24,11 +24,11 @@ const Repo: React.FC = () => {
         <span>/</span>
 
         <Link className={"reponame"} to={"/Azelve-Bin2Dec-mobile"}>
-          youtube-content
+          Bin2Dec-mobile
         </Link>
       </Breadcrumb>
 
-      <p>Contains all of my YouTube lessons code.</p>
+      <p>Convert binary numbers into decimal numbers.</p>
 
       <Stats>
         <li>
