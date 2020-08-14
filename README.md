@@ -5,6 +5,14 @@
 
 <p align="center">Github profile page clone with access to repositories.</p>
 
+[Features](#-features)
+
+<p align="center">
+ <a href="https://github.com/Azelve/github-clone#-features">Features</a> •
+ <a href="https://github.com/Azelve/github-clone#-tech">Technologies</a> • 
+ <a href="https://github.com/Azelve/github-clone#-licenca">License</a> • 
+</p>
+
 <p align="center">
   <img src="assets/readme/github-clone.gif"/>
 </p>
@@ -22,24 +30,33 @@
 	🚧  React Select 🚀 Not continued ...  🚧
 </h4> 
 
-## Features
+# Features <a id="-features"></a>
 
 - [x] Github public API
 - [x] Dark mode
 - [x] Search Github Users
 - [x] Go to Github repositories
 
-### 🛠 Technologies
+### 🛠 Technologies <a id="-tech"></a>
 
 The following tools was used in this project:
 - [React](https://www.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## Getting started
+## Getting started <a id="-start"></a>
 
-...
+In the project directory, you can run:
 
-## License
+### `yarn start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
+
+
+## License <a id="-license"></a>
 
 <p>
 	This project is licensed under the MIT License - see the  
