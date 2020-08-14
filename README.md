@@ -6,12 +6,6 @@
 <p align="center">Github profile page clone with access to repositories.</p>
 
 <p align="center">
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</p>
-
-<p align="center">
   <img src="assets/readme/github-clone.gif"/>
 </p>
 
@@ -32,8 +26,8 @@
 
 - [x] Github public API
 - [x] Dark mode
-- [x] Search Github User
-- [x] Go to Github repositorie
+- [x] Search Github Users
+- [x] Go to Github repositories
 
 ### 🛠 Technologies
 
@@ -47,4 +41,10 @@ The following tools was used in this project:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) page for details.
+<p>
+	This project is licensed under the MIT License - see the  
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+	for details.
+</p>
