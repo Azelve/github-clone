@@ -3,7 +3,7 @@
   GITHUB CLONE
 </h1>
 
-<p align="center">Github profile page clone with dark mode and access to repositories.</p>
+<p align="center">Github profile page clone with access to repositories.</p>
 
 <p align="center">
   <a href="LICENSE">
@@ -24,14 +24,26 @@
 
 <hr />
 
-## Features
-[//]: # (Add the features of your project here:)
+<h4 align="center"> 
+	🚧  React Select 🚀 Not continued ...  🚧
+</h4> 
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
+## Features
+
+- [x] Github public API
+- [x] Dark mode
+- [x] Search Github User
+- [x] Go to Github repositorie
+
+### 🛠 Technologies
+
+The following tools was used in this project:
+- [React](https://www.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## Getting started
 
-
+...
 
 ## License
 
