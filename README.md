@@ -5,12 +5,10 @@
 
 <p align="center">Github profile page clone with access to repositories.</p>
 
-[Features](#-features)
-
 <p align="center">
- <a href="https://github.com/Azelve/github-clone#-features">Features</a> •
- <a href="https://github.com/Azelve/github-clone#-tech">Technologies</a> • 
- <a href="https://github.com/Azelve/github-clone#-licenca">License</a> • 
+ <a href="/#-features">Features</a> •
+ <a href="/#-tech">Technologies</a> • 
+ <a href="/#-licenca">License</a> • 
 </p>
 
 <p align="center">
