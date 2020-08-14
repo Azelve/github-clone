@@ -6,9 +6,9 @@
 <p align="center">Github profile page clone with access to repositories.</p>
 
 <p align="center">
- <a href="/#-features">Features</a> •
- <a href="/#-tech">Technologies</a> • 
- <a href="/#-licenca">License</a> • 
+ <a href="#-features">Features</a> •
+ <a href="#-tech">Technologies</a> • 
+ <a href="#-licenca">License</a> • 
 </p>
 
 <p align="center">
