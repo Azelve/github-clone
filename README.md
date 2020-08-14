@@ -18,8 +18,8 @@
 <div align="center">
   <img src="/assets/readme/mobile-version-01.png" alt="Mobile Version" height="425">
   <img src="/assets/readme/mobile-version-02.png" alt="Mobile Version" height="425">
-  <img src="/assets/readme/mobile-dark-01.png" alt="Dark Mode" height="425">
   <img src="/assets/readme/mobile-dark-02.png" alt="Dark Mode" height="425">
+  <img src="/assets/readme/mobile-dark-01.png" alt="Dark Mode" height="425">
 </div>
 
 <hr />
