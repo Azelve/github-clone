@@ -1,12 +1,38 @@
-## Github Clone com Dark Mode
+<h1 align="center">
+<br>
+  GITHUB CLONE
+</h1>
 
-In the project directory, you can run:
+<p align="center">Github profile page clone with dark mode and access to repositories.</p>
 
-### `yarn start`
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <img src="assets/readme/github-clone.gif"/>
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<div align="center">
+  <img src="/assets/readme/mobile-version-01.png" alt="Mobile Version" height="425">
+  <img src="/assets/readme/mobile-version-02.png" alt="Mobile Version" height="425">
+  <img src="/assets/readme/mobile-dark-01.png" alt="Dark Mode" height="425">
+  <img src="/assets/readme/mobile-dark-02.png" alt="Dark Mode" height="425">
+</div>
 
+<hr />
+
+## Features
+[//]: # (Add the features of your project here:)
+
+- ⚛️ **React Js** — A JavaScript library for building user interfaces
+
+## Getting started
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) page for details.
